@@ -4,7 +4,7 @@
 
 This project is built using [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-This code also has graphql( graph query language) server over Mongoose.
+I've built this project while learning to use graphql with NestJS.
 
 ## Installation
 
